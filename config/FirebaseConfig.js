@@ -5,12 +5,12 @@ import { getStorage } from "firebase/storage";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBDQp1U1MjpyKvjo4ANv2hPt-8UUXGUpRg",
-  authDomain: "blog-8d207.firebaseapp.com",
-  projectId: "blog-8d207",
-  storageBucket: "blog-8d207.appspot.com",
-  messagingSenderId: "750259015921",
-  appId: "1:750259015921:web:3df6c8957ee4b97ab25950"
+  apiKey: "AIzaSyD3VwTyBfQp6THgLlZaacS5FJqMAKtp3CU",
+  authDomain: "ufosightingsandanomalien.firebaseapp.com",
+  projectId: "ufosightingsandanomalien",
+  storageBucket: "ufosightingsandanomalien.appspot.com",
+  messagingSenderId: "632189364846",
+  appId: "1:632189364846:web:a0cfed9dc961184a41947f"
 };
 
 const app = initializeApp(firebaseConfig);
